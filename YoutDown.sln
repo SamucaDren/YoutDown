@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutDown", "YoutDown\YoutDown.csproj", "{F2118F6E-FF2D-442A-8865-AC24F802EAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2118F6E-FF2D-442A-8865-AC24F802EAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2118F6E-FF2D-442A-8865-AC24F802EAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2118F6E-FF2D-442A-8865-AC24F802EAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2118F6E-FF2D-442A-8865-AC24F802EAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F9588C-7245-426A-9DC2-1BF7BCA38B54}
+	EndGlobalSection
+EndGlobal
